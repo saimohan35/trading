@@ -110,7 +110,7 @@ else:
     capital_used_appendum=' per Lot'
    
 
-st.title("**♟**SQUAREOFF BOTS PERFORMANCE**♟**")
+st.title("**♟**Sai Mohan Trading Performance**♟**")
 st.write("**LIVE PERFORMANCE OF "+botFullName+"**")
 st.write("**[Capital used is "+str(botCapital)+capital_used_appendum+"]**")
 if botCapital>50000:
